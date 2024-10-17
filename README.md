@@ -1,5 +1,5 @@
 # Restaurant-Revenue-Prediction
-Revenue Prediction Project
+
 This project focuses on predicting revenue for restaurants using machine learning techniques. Key aspects include:
   - Data analysis of restaurant sales data, including the number of items sold, orders placed, and the distribution of revenue.
   - Data preparation by handling missing values, feature scaling, and encoding categorical variables for modeling.
